@@ -1,15 +1,53 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&family=Londrina+Solid:wght@100;300;400;900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
-:root {
-    --azul: #3d5a80ff;
-    --azul-fraco: #98c1d9ff;
-    --branco: #e0fbfcff;
-    --salmao: #ee6c4dff;
-    --azul-forte: #293241ff;
-    --fonte-texto:"Playfair Display", serif;
-    --fonte-titulo: "Bebas Neue", sans-serif;
+:root{
+
+--branco: #f1faeeff;
+--azul-claro: #a8dadcff;
+--azul: #457b9dff;
+--marinho: #1d3557ff;
+--fonte-texto:"Bahianita", sans-serif;
+--fonte-titulo: "Londrina Solid", sans-serif;
+}
+
+body{
+    background-color: var(--marinho);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: var(--fonte-texto)
+}
+
+.caixa-principal{
+    background-color: var(--azul-claro);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    color: var(--azul);
+    font-family: var(--branco)
+}
+
+button{
+    background-color:var(--branco);
+    color: var(--branco);
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+    transition: 0.3s;
+    margin: 10px auto;
+}
+
+button:hover{
+    background-color: var(--azul);
 }
