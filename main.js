@@ -6,10 +6,10 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Enunciado 01",
+        enunciado: " Kleber está em uma profunda reflexão sobre um caso de racismo que aconteceu com ele, Kleber sai para se exercitar e ouve insultos sendo proferidos para si e resolve que não ficará impune. Qual das alternativas vocẽ acha correta?",
         alternativas: [
             {
-                texto:"alternativa 01",
+                texto:" ",
                 afirmacao: "resultado 01"
             },
             {
