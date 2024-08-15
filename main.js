@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: " Kleber está em uma profunda reflexão sobre um caso de racismo que aconteceu com ele, Kleber sai para se exercitar e ouve insultos sendo proferidos para si e resolve que não ficará impune. Qual das alternativas vocẽ acha correta?",
         alternativas: [
             {
-                texto:" ",
+                texto:" Você não interviria, aliás não vai mudar o mundo ",
                 afirmacao: "resultado 01"
             },
             {
-                texto:"alternativa 02",
+                texto:" faria ",
                 afirmacao: "resultado 02"
             }   
         ]
