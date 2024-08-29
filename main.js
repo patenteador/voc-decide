@@ -6,36 +6,36 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: " Kleber está em uma profunda reflexão sobre um caso de racismo que aconteceu com ele, Kleber sai para se exercitar e ouve insultos sendo proferidos para si e resolve que não ficará impune. Qual das alternativas vocẽ acha correta?",
+        enunciado: " O que é o preconceito para você?",
         alternativas: [
             {
-                texto:" Você não interviria, aliás não vai mudar o mundo ",
-                afirmacao: "resultado 01"
+                texto:" Uma reclamação sem sentido, coisa de gente fraca",
+                afirmacao: " Para você o preconceito deve ser aceito na sociedade "
             },
             {
-                texto:" faria ",
-                afirmacao: "resultado 02"
+                texto:" Algo sério que precisa ser discutido ",
+                afirmacao: " Preconceito é um grande problema da sociedade"
             }   
         ]
     },
     {
-        enunciado: "Enunciado 02",
+        enunciado: " Como o preconceito afeta a saúde mental das vítimas? ",
         alternativas: [
             {
-                texto: "alternativa 03",
+                texto: " Afeta positivamente ,transformando os em pessoas blindadas",
                 afirmacao: "resultado03"
             },
             {
-                texto: "alternativa 04",
+                texto: " Afeta negativamente causando depressão, ansiedade, exclusão social, traumas e até suicidio.",
                 afirmacao: "resultado 04"
             }
         ]
     },
     {
-        enunciado: "Enunciado 03",
+        enunciado: " Como devemos reagir ao vermos uma pessoa sofrendo preconceito ",
         alternativas: [
             {
-                texto: "alternativa 05",
+                texto: " Oferecer apoio a vítima, e interver o ato usando uma abordagem calma, racional e com autoridade",
                 afirmacao: "resultado 05"
             },
             {
