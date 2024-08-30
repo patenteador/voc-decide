@@ -32,36 +32,36 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Como devemos reagir ao vermos uma pessoa sofrendo preconceito ",
+        enunciado: " Como devemos reagir ao vermos uma pessoa sofrendo preconceito?",
         alternativas: [
             {
-                texto: " Oferecer apoio a vítima, e interver o ato usando uma abordagem calma, racional e com autoridade",
+                texto: " Oferecer apoio a vítima, e intervir o ato usando uma abordagem calma, racional e com autoridade",
                 afirmacao: "resultado 05"
             },
             {
-                texto: "alternativa 06",
+                texto: "agir indiferentemente, agir como se fosse brincadeira",
                 afirmacao: "resultado 06"
             }
         ]
     },
     {
-        enunciado: "Enunciado 04",
+        enunciado: "Quais políticas públicas podem ser tomadas no combate ao bullying",
         alternativas: [
             {
-                texto: "alternativa 07",
-                afirmacao: "resultado 07"
+                texto: "",
+                afirmacao: " Campanhas de conscientização, prevenção e leis anti-bullying"
             },
             {
-                texto: "alternativa 08",
+                texto: "normalizar como uma simples socialização ",
                 afirmacao: "resultado 08"
             }
         ]
     },
     {
-        enunciado: "Enunciado 05",
+        enunciado: " Vocẽ acha que o preconceito influência na educação das gerações futuras? ",
         alternativas: [
             {
-                texto: "alternativa 09",
+                texto: "Sim, reforço",
                 afirmacao: "resultado 09"
             },
             {
