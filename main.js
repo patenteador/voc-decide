@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: " O que é o preconceito para você?",
         alternativas: [
             {
-                texto:" Uma reclamação sem sentido, coisa de gente fraca",
-                afirmacao: " Para você o preconceito deve ser aceito na sociedade "
+                texto:"Algo sério que precisa ser discutido",
+                afirmacao: "Preconceito é um grande problema da sociedade  "
             },
             {
-                texto:" Algo sério que precisa ser discutido ",
-                afirmacao: " Preconceito é um grande problema da sociedade"
+                texto:"Uma reclamação sem sentido, coisa de gente fraca ",
+                afirmacao: "Para você o preconceito deve ser aceito na sociedade e"
             }   
         ]
     },
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: " Como o preconceito afeta a saúde mental das vítimas? ",
         alternativas: [
             {
-                texto: " Afeta positivamente ,transformando os em pessoas blindadas",
-                afirmacao: "resultado03"
+                texto: "Afeta negativamente causando depressão, ansiedade, exclusão social, traumas e até suicidio.  ",
+                afirmacao: " que vem afetando negativamente as pessoas,"
             },
             {
-                texto: " Afeta negativamente causando depressão, ansiedade, exclusão social, traumas e até suicidio.",
-                afirmacao: "resultado 04"
+                texto: "Afeta positivamente ,transformando as em pessoas blindadas",
+                afirmacao: "afeta positivamente ,transformando as vitimas em pessoas com mentes blindadas,"
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Oferecer apoio a vítima, e intervir o ato usando uma abordagem calma, racional e com autoridade",
-                afirmacao: "resultado 05"
+                afirmacao: " deve ser combatido com educação, promover por meio de ideias, uma autocritica no agressor."
             },
             {
                 texto: "agir indiferentemente, agir como se fosse brincadeira",
-                afirmacao: "resultado 06"
+                afirmacao: " sendo apenas uma brincadeira."
             }
         ]
     },
@@ -48,12 +48,12 @@ const perguntas = [
         enunciado: "Quais políticas públicas podem ser tomadas no combate ao bullying",
         alternativas: [
             {
-                texto: "",
-                afirmacao: " Campanhas de conscientização, prevenção e leis anti-bullying"
+                texto: "Campanhas de conscientização, prevenção e leis anti-bullying",
+                afirmacao: "É necessário também campanhas de conscientização, prevenção e leis anti-bullying."
             },
             {
                 texto: "normalizar como uma simples socialização ",
-                afirmacao: "resultado 08"
+                afirmacao: " essa socialização é necessária e deve ser normalizada"
             }
         ]
     },
@@ -61,13 +61,13 @@ const perguntas = [
         enunciado: " Vocẽ acha que o preconceito influência na educação das gerações futuras? ",
         alternativas: [
             {
-                texto: "Sim, reforço",
-                afirmacao: "resultado 09"
+                texto: "Sim, acabam transmitindo as criancas e moldando suas personalidades limitando sua capacidade de empatia e de aceitar a diversidade",
+                afirmacao: " Esse preconceito a longo prazo molda negativamente a mente da população e limita a capacide de empatia e a diversidade."
             },
             {
-                texto: "alternativa 10",
-                afirmacao: "resultado 10"
-            }
+                texto: "Não, influencia positivamente fortalecendo a mente da populaçao.",
+                afirmacao: " sendo necessario para o crescimento da sociedade"
+            } 
         ]
     },
 ]
